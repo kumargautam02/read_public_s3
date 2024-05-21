@@ -1,5 +1,5 @@
 #ignore all the Files suffixing .ipynb
-*.ipynb
+
 
 #ignoring 
 **/.venv
